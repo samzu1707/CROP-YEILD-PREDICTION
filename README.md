@@ -21,7 +21,7 @@ The **Crop Yield Prediction** project aims to predict agricultural crop yields b
 - scikit-learn — for ML models and evaluation  
 - (Optional) Matplotlib / Seaborn — for visualization and EDA  
 
-## 👤 Contributor
+## 👤 Contact
 
 - **Samra Zulfiqar**  
   📧 Email: [samrazulfiqar0@gmail.com](mailto:samrazulfiqar0@gmail.com)  
